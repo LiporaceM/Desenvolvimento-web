@@ -1,0 +1,20 @@
+# Python
+referencia: https://www.python.org/
+relação: É uma linguaguem de programação que provavelmente vai ser utilizada no desenvolvimento de
+programas para a disciplina
+# Github
+referencia: https://github.com/
+relação: Ferramenta que vai ser utilizada para a entrega de trabalhos alem de ter a possibilidade
+de ser utilizada como ferramenta de pesquisa para topicos voltados a programação
+# Vscode
+referencia: https://code.visualstudio.com/
+relação: Ferramenta utilizada para codificar e editar os textos de exercicios feitos da disciplina,
+serve como uma forma de editor de texto alem da sua capacidade de servir como um IDE.
+# QsLite
+referencia: https://sqlitebrowser.org/
+relação: É principalmente usada como uma ferramenta para criação de banco de dados e edita-los e
+principalmente facilitar o processo de criação delas.
+# Navegador -> Google Chrome
+referencia: https://www.google.com/intl/pt-BR/chrome/
+relação: Ferramenta de pesquisa usada para qualquer topico desejado e vai ser uma parte crucial da
+disciplina já que ela proporciona diversos meios de obter informações uteis sobre ela.
